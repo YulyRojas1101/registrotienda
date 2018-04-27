@@ -1,3 +1,16 @@
 *{
 margin: 1vh 1vw;
 }
+body{
+  font-family: verdana;
+  margin: 20px;
+}
+p> textarea{
+  width: 200px;
+}
+input[name^=email]{
+	background-color: #eeeeee;
+}
+p, label{
+	font-family: Tahoma;
+}
